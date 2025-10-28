@@ -32,3 +32,12 @@ This system demonstrates the integration of **Power Platform components** for a 
 
 ```text
 User → Power Apps → Dataverse → Power Automate → Power BI
+
+---
+
+### 🔒 Security Features
+- Role-based access (Reporter, Reviewer, Security Admin)
+- Audit history tracking for every change
+- Encrypted data storage in Dataverse
+- Automated compliance email alerts
+
